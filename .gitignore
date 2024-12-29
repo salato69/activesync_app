@@ -55,4 +55,4 @@ ios/Pods/
 .packages
 .DS_Store
 .metadata
-google-services.json
+firebase.json
