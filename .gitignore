@@ -43,3 +43,16 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+.dart_tool/
+.idea/
+.vscode/
+build/
+ios/Pods/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.DS_Store
+.metadata
+google-services.json
